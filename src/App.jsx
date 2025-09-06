@@ -1,11 +1,11 @@
 import React from 'react'
+import Birthday from './Bdyas/Birthday';
 
-import Color from './Color';
 
 const App = () => {
   return (
    <>
-   <Color/>
+   <Birthday/>
 
    </>
   )
